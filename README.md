@@ -43,7 +43,7 @@ Fitness Tracker is a simple web application that allows users to log their worko
    npm run start
    ```
 
-5. Open your browser and navigate to `http://localhost:5173` to view the application.
+5. Open your browser and navigate to `http://localhost:5504` to view the application.
 
 ## Usage
 
