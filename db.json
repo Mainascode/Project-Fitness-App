@@ -1,0 +1,107 @@
+{
+  "workouts": [
+    {
+      "id": "1",
+      "name": "Running",
+      "caloriesBurned": 300
+    },
+    {
+      "id": "2",
+      "name": "Cycling",
+      "caloriesBurned": 200
+    },
+    {
+      "id": "3",
+      "name": "Swimming",
+      "caloriesBurned": 250
+    },
+    {
+      "id": "4",
+      "name": "Weightlifting",
+      "caloriesBurned": 150
+    },
+    {
+      "id": "5",
+      "name": "Yoga",
+      "caloriesBurned": 100
+    },
+    {
+      "id": "6",
+      "name": "HIIT",
+      "caloriesBurned": 400
+    },
+    {
+      "id": "7",
+      "name": "Walking",
+      "caloriesBurned": 100
+    },
+    {
+      "id": "8",
+      "name": "Dancing",
+      "caloriesBurned": 200
+    },
+    {
+      "id": "9",
+      "name": "Pilates",
+      "caloriesBurned": 150
+    },
+    {
+      "id": "10",
+      "name": "Rowing",
+      "caloriesBurned": 300
+    },
+    {
+      "id": "44f7"
+    },
+    {
+      "id": 1729157574307,
+      "name": "Running",
+      "calories": 300
+    },
+    {
+      "id": 1729157578381,
+      "name": "Running",
+      "calories": 300
+    },
+    {
+      "id": 1729157587302,
+      "name": "Running",
+      "calories": 300
+    },
+    {
+      "id": 1729157591901,
+      "name": "Swimming",
+      "calories": 250
+    },
+    {
+      "id": 1729157637879,
+      "name": "Running",
+      "calories": 150
+    },
+    {
+      "id": 1729157684789,
+      "name": "Running",
+      "calories": 150
+    },
+    {
+      "id": 1729157767129,
+      "name": "Running",
+      "calories": 150
+    },
+    {
+      "id": 1729157806889,
+      "name": "Running",
+      "calories": 300
+    },
+    {
+      "id": 1729157915047,
+      "name": "Running",
+      "calories": 300
+    },
+    {
+      "id": 1729157920113,
+      "name": "Swimming",
+      "calories": 250
+    }
+  ]
+}

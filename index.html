@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fitness Tracker</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Fitness Tracker</h1>
+        <form id="workout-form">
+            <input type="text" id="workout-name" placeholder="Workout Name" required>
+            <button type="submit">Add Workout</button>
+        </form>
+        <div class="stats">
+            <p>Total Calories Burned: <span id="total-calories">0</span></p>
+        </div>
+        <ul id="workouts"></ul>
+        <div class="chart-container">
+            <canvas id="caloriesChart"></canvas>
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
