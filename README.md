@@ -4,7 +4,7 @@ Fitness Tracker is a simple web application that allows users to log their worko
 
 ## Features
 
-- Add workouts with name and calories burned
+- Add workouts with name 
 - View a list of all workouts
 - Delete individual workouts
 - Display total calories burned
