@@ -1,3 +1,5 @@
+**ABOUT AUTHOR**
+Application created by Emmanuel Maina
 # Fitness Tracker
 
 Fitness Tracker is a simple web application that allows users to log their workouts and track calories burned. It provides a user-friendly interface to add workouts, view total calories burned, and visualize workout data using a chart.
